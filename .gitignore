@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# Maven
+backend/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
