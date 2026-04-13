@@ -40,7 +40,7 @@ TaskFlow is a task management system that allows users to register, log in, crea
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/taskflow
+git clone https://github.com/Vishal0311/taskflow-Vishal-Kumar
 cd taskflow
 cp .env.example .env
 docker compose up --build
