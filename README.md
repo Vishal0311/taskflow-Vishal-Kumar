@@ -148,4 +148,4 @@ Response `201`:
 
 ## Postman Collection
 
-Import `postman/TaskFlow.postman_collection.json` into Postman to test all endpoints.
+Import `Zomato-taskflow.postman_collection.json` into Postman to test all endpoints.
